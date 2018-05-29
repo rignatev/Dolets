@@ -1,0 +1,39 @@
+{
+	"TypeName": "DoletSettings",
+	"Name": "MSOfficeInfo",
+	"Version": "1.0",
+
+    "File.Export": true,
+    "File.Type": "txt",
+    "File.Name": "",
+    "File.Name.Date.Starts": true,
+    "File.Name.Date.Ends": false,
+    "File.Name.Date.Fromat": "yyyyMMdd.HHmmss",
+    "File.Name.Date.Delimiter": "_",
+    "File.Encoding": "UTF8",
+    "File.TXT.Append": false,
+    "File.TXT.NoNewline": false,
+    "File.CSV.Append": false,
+    "File.CSV.Delimiter": ";",
+    "File.CSV.NoClobber": false,
+    "File.CSV.NoTypeInformation": true,
+    "File.CSV.UseCulture": false,
+    "File.XML.Depth": 4,
+    "File.XML.NoClobber": false,
+    "File.JSON.Depth": 4,
+    "File.JSON.Compress": false,
+
+	"ReportResults": {
+		"Version": "-"
+	},
+
+	"Custom": {
+		"WordVersions": {
+			"Word.Application.16": "Microsoft Office 2016",
+			"Word.Application.15": "Microsoft Office 2013",
+			"Word.Application.14": "Microsoft Office 2010",
+			"Word.Application.12": "Microsoft Office 2007",
+			"Word.Application.11": "Microsoft Office 2003"
+		}
+	}
+}
