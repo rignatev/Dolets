@@ -1,2 +1,2 @@
 # Dolets
-Dolets for a [DoRemotely](https://github.com/rignatev/DoRemotely)
+Dolets for the [DoRemotely](https://github.com/rignatev/DoRemotely)
